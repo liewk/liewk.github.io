@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-About Me
+Publications & Proceedings
 ======
 
 Buening, R., \*Maeda, T., Liew, K., & Aramaki, E. (In Press). Between fact and fabrication: How visual art might nurture environmental consciousness. Frontiers in Psychology
