@@ -9,7 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-test
-test4
+Coming soon
