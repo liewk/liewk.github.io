@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Kongmeng Liew"
 description              : &description "Assistant Professor, NAIST"
