@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Human and Environmental Studies (Cognitive and Behavioral Science), Graduate School of Human and Environmental Studies, Kyoto University, 2021 
+* M.A. in Research, School of Art, Design, and Media, Nanyang Technological University, 2018
+* B.Mus. in Music Composition, Yong Siew Toh Conservatory of Music, National University of Singapore, 2015
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor, Nara Institute of Science and Technology, 2021 - Present
+* Research Fellow, Nara Institute of Science and Technology, 2020
+* Research Fellow (DC2), Japan Society for the Promotion of Science, 2019-2021
+  
+  
+Grants and Awards
+======
+* Google Research Scholar Program, 2022 (Primary Investigator)
+* * *Understanding Social Withdrawal and Hikikomori: Research and Development of an Intelligent Companion Application for AI-Assisted Therapy*
+* Grant-in-Aid for Scientific Research (C), Japan Society for the Promotion of Science, 2022 (Co-Investigator)
+* * *Webビッグデータを用いたパンデミックにおける人々の思いの計量化と可視化 \[Visualization and Quantification of Web-based Big Data on Individuals’ Thoughts on the Pandemic]*
+* Harry and Pola Triandis Doctoral Thesis Award, International Association for Cross-Cultural Psychology, 2022
+* Summer Institute for Computational Social Science (SICSS) Research Grant, Social Science Research Council, 2021 (Primary Investigator)
+* * *Abusive Language and Gatekeeping in Twitch Online Cultures*
+* Grant-in-Aid for Research Fellows, Japan Society for the Promotion of Science (2019-2021) (Primary Investigator)
+* Capability Development Grant, National Arts Council (Singapore) (2017-2018)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Scholarships
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Tan Ean Kiam Postgraduate Scholarship for the Humanities, Tan Kah Kee Foundation, Singapore (2018)
+* Research Scholarship, Nanyang Technological University, Singapore (2015-2017)
+* Faculty Scholarship, National University of Singapore (2011-2015)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
