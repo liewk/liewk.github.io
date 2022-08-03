@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Liew, K.**, \*Mishra, V., \*Zhou, Y., Epure, E. V., Hennequin, R., Wakamiya, S., Aramaki, E. (Forthcoming). Network Analyses for Cross-Cultural Music Popularity. *Proceedings of the 23rd International Society for Music Information Retrieval Conference (ISMIR)*
 
-Buening, R., \*Maeda, T., **Liew, K.**, & Aramaki, E. (In Press). Between fact and fabrication: How visual art might nurture environmental consciousness. *Frontiers in Psychology*
+Buening, R., \*Maeda, T., **Liew, K.**, & Aramaki, E. (2022). Between fact and fabrication: How visual art might nurture environmental consciousness. *Frontiers in Psychology*, 13:925843. https://doi.org/fpsyg.2022.925843
 
-\*Mutinda, F., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (In Press). Automatic data extraction to support meta-analysis statistical analysis: A case study on breast cancer. *BMC Medical Informatics and Decision Making*.
+\*Mutinda, F., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (2022). Automatic data extraction to support meta-analysis statistical analysis: A case study on breast cancer. *BMC Medical Informatics and Decision Making*, 22(1), 158. https://doi.org/10.1186/s12911-022-01897-4
 
 \*Ramos, P. J., \*Ferawati, K., **Liew, K.**, Aramaki, E., & Wakamiya, S. (2022). Emotion analysis of writers and readers of Japanese Tweets on Vaccinations. *Proceedings of the Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analyses (WASSA)*, Annual Meeting of the Association for Computational Linguistics (ACL).
 
