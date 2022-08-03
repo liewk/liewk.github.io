@@ -21,7 +21,7 @@ Lindborg, P., & **Liew, K.** (2021). Real and imagined smellscapes. *Frontiers i
 
 \*Mishra, V., **Liew, K.**, Hennequin, R., Epure, E. V., & Aramaki, E. (2021). Are Metal fans angrier than Jazz fans? A genre-wise exploration of the emotional language of music listeners on Reddit. *Proceedings of the 2nd Workshop on NLP for Music and Audio (NLP4MusA), International Society for Music Information Retrieval (ISMIR)*. Association for Computational Linguistics. https://aclanthology.org/2021.nlp4musa-1.7/ 
 
-\*Gao, Z., Fujita, S., Shimizu, N., **Liew, K.**, Murayama, T., Yada, S., Wakamiya, S., & Aramaki, E. (2021). Measuring public concern about COVID-19 through search queries. JMIR Public Health and Surveillance. https://doi.org/10.2196/29865 
+\*Gao, Z., Fujita, S., Shimizu, N., **Liew, K.**, Murayama, T., Yada, S., Wakamiya, S., & Aramaki, E. (2021). Measuring public concern about COVID-19 through search queries. *JMIR Public Health and Surveillance*. https://doi.org/10.2196/29865 
 
 Manabe, M., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (2021). Estimation of psychological distress in Japanese youth through analyses of narrative writing: Text-based stylometric and sentiment analyses. *JMIR Formative Reports*, 5(8):e29500. https://doi.org/10.2196/29500 
 
