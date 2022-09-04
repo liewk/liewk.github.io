@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Koh, A. H. Q., **Liew, K.**, Uchida, Y. (Forthcoming). The ease of experiencing positive emotions in negative 
+Koh, A. H. Q., **Liew, K.**, Uchida, Y. (Forthcoming). The ease of experiencing positive emotions in negative context. *Motivation and Emotion*
 
 \*Zhou, Y., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (Forthcoming). Music charts for approximating everyday emotions: A dataset of daily charts with music features from 106 cities. *Proceedings of the 3rd Workshop on Momentary Emotion Elicitation and Capture (MEEC), International Conference for Affective Computing & Intelligent Interaction (ACII)*
 
