@@ -19,7 +19,7 @@ Buening, R., \*Maeda, T., **Liew, K.**, & Aramaki, E. (2022). Between fact and f
 
 \*Mutinda, F., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (2022). Automatic data extraction to support meta-analysis statistical analysis: A case study on breast cancer. *BMC Medical Informatics and Decision Making*, 22(1), 158. [https://doi.org/10.1186/s12911-022-01897-4](https://doi.org/10.1186/s12911-022-01897-4)
 
-\*Ramos, P. J., \*Ferawati, K., **Liew, K.**, Aramaki, E., & Wakamiya, S. (2022). Emotion analysis of writers and readers of Japanese Tweets on Vaccinations. *Proceedings of the Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analyses (WASSA)*, Annual Meeting of the Association for Computational Linguistics (ACL).
+\*Ramos, P. J., \*Ferawati, K., **Liew, K.**, Aramaki, E., & Wakamiya, S. (2022). Emotion analysis of writers and readers of Japanese Tweets on Vaccinations. *Proceedings of the Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analyses (WASSA)*, Annual Meeting of the Association for Computational Linguistics (ACL).[https://aclanthology.org/2022.wassa-1.10.pdf](https://aclanthology.org/2022.wassa-1.10.pdf)
 
 **Liew, K.**, Uchida, Y, & de Almeida, I. (2021). Exploring cultural differences in music preferences for Chinese, Japanese and English songs through Spotify features. *PeerJ Computer Science*, 7:e642. [https://doi.org/10.7717/peerj-cs.642](https://doi.org/10.7717/peerj-cs.642)
 
