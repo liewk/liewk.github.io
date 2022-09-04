@@ -5,21 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-Koh, A. H. Q., **Liew, K.**, Uchida, Y. (Forthcoming). The ease of experiencing positive emotions in negative context. *Motivation and Emotion*
+Koh, A. H. Q., **Liew, K.**, Uchida, Y. (Forthcoming). The ease of experiencing positive emotions in negative 
 
 \*Zhou, Y., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (Forthcoming). Music charts for approximating everyday emotions: A dataset of daily charts with music features from 106 cities. *Proceedings of the 3rd Workshop on Momentary Emotion Elicitation and Capture (MEEC), International Conference for Affective Computing & Intelligent Interaction (ACII)*
 
 **Liew, K.**, \*Mishra, V., \*Zhou, Y., Epure, E. V., Hennequin, R., Wakamiya, S., & Aramaki, E. (Forthcoming). Network analyses for cross-cultural music popularity. *Proceedings of the 23rd International Society for Music Information Retrieval Conference (ISMIR)*
 
-\*Uehara, M., Fujita, S., Shimizu, N., **Liew, K**., Wakamiya, S., & Aramaki, E. (2022). Measuring concerns about the COVID-19 vaccine among Japanese internet users through search queries. *Scientific Reports*, 12:5037: https://doi.org/10.1038/s41598-022-18307-4
+\*Uehara, M., Fujita, S., Shimizu, N., **Liew, K**., Wakamiya, S., & Aramaki, E. (Forthcoming). Measuring concerns about the COVID-19 vaccine among Japanese internet users through search queries. *Scientific Reports*, 12:5037: [https://doi.org/10.1038/s41598-022-18307-4](https://doi.org/10.1038/s41598-022-18307-4)
 
-Buening, R., \*Maeda, T., **Liew, K.**, & Aramaki, E. (2022). Between fact and fabrication: How visual art might nurture environmental consciousness. *Frontiers in Psychology*, 13:925843. https://doi.org/fpsyg.2022.925843
+Buening, R., \*Maeda, T., **Liew, K.**, & Aramaki, E. (2022). Between fact and fabrication: How visual art might nurture environmental consciousness. *Frontiers in Psychology*, 13:925843. [https://doi.org/fpsyg.2022.925843](https://doi.org/fpsyg.2022.925843)
 
-\*Mutinda, F., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (2022). Automatic data extraction to support meta-analysis statistical analysis: A case study on breast cancer. *BMC Medical Informatics and Decision Making*, 22(1), 158. https://doi.org/10.1186/s12911-022-01897-4
+\*Mutinda, F., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (2022). Automatic data extraction to support meta-analysis statistical analysis: A case study on breast cancer. *BMC Medical Informatics and Decision Making*, 22(1), 158. [https://doi.org/10.1186/s12911-022-01897-4](https://doi.org/10.1186/s12911-022-01897-4)
 
 \*Ramos, P. J., \*Ferawati, K., **Liew, K.**, Aramaki, E., & Wakamiya, S. (2022). Emotion analysis of writers and readers of Japanese Tweets on Vaccinations. *Proceedings of the Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analyses (WASSA)*, Annual Meeting of the Association for Computational Linguistics (ACL).
 
-**Liew, K.**, Uchida, Y, & de Almeida, I. (2021). Exploring cultural differences in music preferences for Chinese, Japanese and English songs through Spotify features. *PeerJ Computer Science*, 7:e642. https://doi.org/10.7717/peerj-cs.642 
+**Liew, K.**, Uchida, Y, & de Almeida, I. (2021). Exploring cultural differences in music preferences for Chinese, Japanese and English songs through Spotify features. *PeerJ Computer Science*, 7:e642. [https://doi.org/10.7717/peerj-cs.642](https://doi.org/10.7717/peerj-cs.642)
 
 **Liew, K.**, Uchida, Y., dela Cruz, C., & Lee, L. N. (2021). Examining the cultural marginalization theory of NEET/Hikikomori risk tendencies in Singaporean youth. *Psychologia*, 63(1), 4-19. https://doi.org/10.2117/psysoc.2020-A120
 
