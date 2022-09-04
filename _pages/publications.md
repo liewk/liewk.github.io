@@ -11,7 +11,7 @@ Koh, A. H. Q., **Liew, K.**, Uchida, Y. (Forthcoming). The ease of experiencing 
 
 **Liew, K.**, \*Mishra, V., \*Zhou, Y., Epure, E. V., Hennequin, R., Wakamiya, S., & Aramaki, E. (Forthcoming). Network analyses for cross-cultural music popularity. *Proceedings of the 23rd International Society for Music Information Retrieval Conference (ISMIR)*
 
-\*Uehara, M., Fujita, S., Shimizu, N., **Liew, K**., Wakamiya, S., & Aramaki, E. (Forthcoming). Measuring concerns about the COVID-19 vaccine among Japanese internet users through search queries. *Scientific Reports*, 12:5037: [https://doi.org/10.1038/s41598-022-18307-4](https://doi.org/10.1038/s41598-022-18307-4)
+\*Uehara, M., Fujita, S., Shimizu, N., **Liew, K**., Wakamiya, S., & Aramaki, E. (Forthcoming). Measuring concerns about the COVID-19 vaccine among Japanese internet users through search queries. *Scientific Reports*, 12:5037. [https://doi.org/10.1038/s41598-022-18307-4](https://doi.org/10.1038/s41598-022-18307-4)
 
 Buening, R., \*Maeda, T., **Liew, K.**, & Aramaki, E. (2022). Between fact and fabrication: How visual art might nurture environmental consciousness. *Frontiers in Psychology*, 13:925843. [https://doi.org/fpsyg.2022.925843](https://doi.org/fpsyg.2022.925843)
 
