@@ -4,11 +4,14 @@ title: "Publications & Proceedings"
 permalink: /publications/
 author_profile: true
 ---
-\*Uehara, M., Fujita, S., Shimizu, N., **Liew, K**., Wakamiya, S., & Aramaki, E. (Forthcoming). Measuring concerns about the COVID-19 vaccine among Japanese internet users through search queries. *Scientific Reports*
+
+Koh, A. H. Q., **Liew, K.**, Uchida, Y. (Forthcoming). The ease of experiencing positive emotions in negative context. *Motivation and Emotion*
 
 \*Zhou, Y., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (Forthcoming). Music charts for approximating everyday emotions: A dataset of daily charts with music features from 106 cities. *Proceedings of the 3rd Workshop on Momentary Emotion Elicitation and Capture (MEEC), International Conference for Affective Computing & Intelligent Interaction (ACII)*
 
 **Liew, K.**, \*Mishra, V., \*Zhou, Y., Epure, E. V., Hennequin, R., Wakamiya, S., & Aramaki, E. (Forthcoming). Network analyses for cross-cultural music popularity. *Proceedings of the 23rd International Society for Music Information Retrieval Conference (ISMIR)*
+
+\*Uehara, M., Fujita, S., Shimizu, N., **Liew, K**., Wakamiya, S., & Aramaki, E. (2022). Measuring concerns about the COVID-19 vaccine among Japanese internet users through search queries. *Scientific Reports*, 12:5037: https://doi.org/10.1038/s41598-022-18307-4
 
 Buening, R., \*Maeda, T., **Liew, K.**, & Aramaki, E. (2022). Between fact and fabrication: How visual art might nurture environmental consciousness. *Frontiers in Psychology*, 13:925843. https://doi.org/fpsyg.2022.925843
 
