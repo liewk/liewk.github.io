@@ -13,6 +13,8 @@ Koh, A. H. Q., **Liew, K.**, Uchida, Y. (Forthcoming). The ease of experiencing 
 
 Uchida, Y., Krys, K., & **Liew, K.** (forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
 
+\*Ferawati, K., **Liew, K.**, Wakamiya, S., & Aramaki, E. (2022). Monitoring Mentions of COVID-19 Vaccine Side Effects from Japanese and Indonesian Twitter: Infodemiological Study. *JMIR Infodemiology*, 2(2):):e39504. [https://doi.org/10.2196/39504](https://doi.org/10.2196/39504)
+
 \*Uehara, M., Fujita, S., Shimizu, N., **Liew, K**., Wakamiya, S., & Aramaki, E. (2022). Measuring concerns about the COVID-19 vaccine among Japanese internet users through search queries. *Scientific Reports*, 12:5037. [https://doi.org/10.1038/s41598-022-18307-4](https://doi.org/10.1038/s41598-022-18307-4)
 
 Buening, R., \*Maeda, T., **Liew, K.**, & Aramaki, E. (2022). Between fact and fabrication: How visual art might nurture environmental consciousness. *Frontiers in Psychology*, 13:925843. [https://doi.org/fpsyg.2022.925843](https://doi.org/fpsyg.2022.925843)
