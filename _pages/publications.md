@@ -11,6 +11,8 @@ Koh, A. H. Q., **Liew, K.**, Uchida, Y. (Forthcoming). The ease of experiencing 
 
 **Liew, K.**, \*Mishra, V., \*Zhou, Y., Epure, E. V., Hennequin, R., Wakamiya, S., & Aramaki, E. (Forthcoming). Network analyses for cross-cultural music popularity. *Proceedings of the 23rd International Society for Music Information Retrieval Conference (ISMIR)*
 
+\*Mutinda, F. W., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (Forthcoming). PICO Corpus: A Publicly Available Corpus to Support Automatic Data Extraction from Biomedical Literature, *Proceedings of the Workshop on Information Extraction from Scientific Publications (WIESP), AACL-IJCNLP*.
+
 Uchida, Y., Krys, K., & **Liew, K.** (forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
 
 \*Ferawati, K., **Liew, K.**, Wakamiya, S., & Aramaki, E. (2022). Monitoring Mentions of COVID-19 Vaccine Side Effects from Japanese and Indonesian Twitter: Infodemiological Study. *JMIR Infodemiology*, 2(2):):e39504. [https://doi.org/10.2196/39504](https://doi.org/10.2196/39504)
