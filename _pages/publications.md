@@ -13,9 +13,9 @@ Azuaje, G., **Liew, K.** (equal contribution), Buening, R., She, W. J., Siriaray
 
 Uchida, Y., Krys, K., & **Liew, K.** (forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
 
-**Liew, K.**,  Uchida, Y.,  Domae, H., &  Koh, A. H. Q. (2022).  Energetic music is used for anger downregulation: A cross-cultural differentiation of intensity from rhythmic arousal. *Journal of Applied Social Psychology*,  1– 12. https://doi.org/10.1111/jasp.12951
+**Liew, K.**,  Uchida, Y.,  Domae, H., &  Koh, A. H. Q. (2022).  Energetic music is used for anger downregulation: A cross-cultural differentiation of intensity from rhythmic arousal. *Journal of Applied Social Psychology*,  1– 12. [https://doi.org/10.1111/jasp.12951](https://doi.org/10.1111/jasp.12951)
 
-\*Zhou, Y., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (Forthcoming). Music charts for approximating everyday emotions: A dataset of daily charts with music features from 106 cities. *Proceedings of the 3rd Workshop on Momentary Emotion Elicitation and Capture (MEEC), International Conference for Affective Computing & Intelligent Interaction (ACII)*
+\*Zhou, Y., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (2022). Music charts for approximating everyday emotions: A dataset of daily charts with music features from 106 cities. *Proceedings of the 3rd Workshop on Momentary Emotion Elicitation and Capture (MEEC), International Conference for Affective Computing & Intelligent Interaction (ACII)*
 
 **Liew, K.**, \*Mishra, V., \*Zhou, Y., Epure, E. V., Hennequin, R., Wakamiya, S., & Aramaki, E. (2022). Network analyses for cross-cultural music popularity. *Proceedings of the 23rd International Society for Music Information Retrieval Conference (ISMIR)* {PDF available at [https://psyarxiv.com/fp75z/](https://psyarxiv.com/fp75z/)}
 
