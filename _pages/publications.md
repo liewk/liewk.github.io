@@ -7,7 +7,7 @@ author_profile: true
 
 Koh, A. H. Q., **Liew, K.**, Uchida, Y. (Forthcoming). The ease of experiencing positive emotions in negative context. *Motivation and Emotion*
 
-Azuaje, G., **Liew, K.** (equal contribution), Buening, R., She, W. J., Siriaraya, P., Wakamiya, S., & Aramaki, E. (Forthcoming). Exploring the use of AI text-to-image generation to downregulate negative emotions in an expressive writing application. *Royal Society Open Science*
+\*Azuaje, G., **Liew, K.** (equal contribution), Buening, R., She, W. J., Siriaraya, P., Wakamiya, S., & Aramaki, E. (Forthcoming). Exploring the use of AI text-to-image generation to downregulate negative emotions in an expressive writing application. *Royal Society Open Science*
 
 \*Mutinda, F. W., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (Forthcoming). PICO Corpus: A Publicly Available Corpus to Support Automatic Data Extraction from Biomedical Literature, *Proceedings of the Workshop on Information Extraction from Scientific Publications (WIESP), AACL-IJCNLP*.
 
