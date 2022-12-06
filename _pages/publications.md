@@ -11,7 +11,9 @@ Koh, A. H. Q., **Liew, K.**, Uchida, Y. (Forthcoming). The ease of experiencing 
 
 \*Mutinda, F. W., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (Forthcoming). PICO Corpus: A Publicly Available Corpus to Support Automatic Data Extraction from Biomedical Literature, *Proceedings of the Workshop on Information Extraction from Scientific Publications (WIESP), AACL-IJCNLP*.
 
-Uchida, Y., Krys, K., & **Liew, K.** (forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
+Lin, P. K. F., Andrew, Koh, A. H. Q., & **Liew, K.** (Forthcoming). The relationship between Hikikomori risk factors and social withdrawal tendencies among emerging adults: An exploratory study of Hikikomori in Singapore. *Frontiers in Psychiatry*
+
+Uchida, Y., Krys, K., & **Liew, K.** (Forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
 
 **Liew, K.**,  Uchida, Y.,  Domae, H., &  Koh, A. H. Q. (2022).  Energetic music is used for anger downregulation: A cross-cultural differentiation of intensity from rhythmic arousal. *Journal of Applied Social Psychology*,  1– 12. [https://doi.org/10.1111/jasp.12951](https://doi.org/10.1111/jasp.12951)
 
