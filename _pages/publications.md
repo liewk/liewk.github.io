@@ -7,7 +7,7 @@ author_profile: true
 
 **Liew, K.**, Koh, A. H. Q., Fram, N. R., Brown, C. M., dela Cruz, C., Neng, L. L., Hennequin, R., Krause, A., & Uchida, Y. (Forthcoming). Groovin’ to the cultural beat: Preferences for danceable music represent cultural affordances for high-arousal negative emotions. *Psychology of Aesthetics, Creativity, and the Arts*. Preprint available at [https://doi.org/10.31234/osf.io/eqd8t](https://doi.org/10.31234/osf.io/eqd8t)
 
-\*Azuaje, G., **Liew, K.**, Epure, E. V., Yada, S., Wakamiya, S., Aramaki, E. (Forthcoming). Visualyre: Multimodal album art generation for independent musicians. *Personal and Ubiquitous Computing*
+\*Azuaje, G., **Liew, K.**, Epure, E. V., Yada, S., Wakamiya, S., Aramaki, E. (Forthcoming). Visualyre: Multimodal album art generation for independent musicians. *Personal and Ubiquitous Computing*.
 
 Uchida, Y., Krys, K., & **Liew, K.** (Forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
 
