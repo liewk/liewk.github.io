@@ -5,19 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-Koh, A. H. Q., **Liew, K.**, Uchida, Y. (Forthcoming). The ease of experiencing positive emotions in negative context. *Motivation and Emotion*
+**Liew, K.**, Koh, A. H. Q., Fram, N. R., Brown, C. M., dela Cruz, C., Neng, L. L., Hennequin, R., Krause, A., & Uchida, Y. (Forthcoming). Groovin’ to the cultural beat: Preferences for danceable music represent cultural affordances for high-arousal negative emotions. *Psychology of Aesthetics, Creativity, and the Arts*. Preprint available at [https://doi.org/10.31234/osf.io/eqd8t](https://doi.org/10.31234/osf.io/eqd8t)
 
-\*Azuaje, G., **Liew, K.** (equal contribution), Buening, R., She, W. J., Siriaraya, P., Wakamiya, S., & Aramaki, E. (Forthcoming). Exploring the use of AI text-to-image generation to downregulate negative emotions in an expressive writing application. *Royal Society Open Science*
-
-\*Mutinda, F. W., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (Forthcoming). PICO Corpus: A Publicly Available Corpus to Support Automatic Data Extraction from Biomedical Literature, *Proceedings of the Workshop on Information Extraction from Scientific Publications (WIESP), AACL-IJCNLP*.
-
-Lin, P. K. F., Andrew, Koh, A. H. Q., & **Liew, K.** (Forthcoming). The relationship between Hikikomori risk factors and social withdrawal tendencies among emerging adults: An exploratory study of Hikikomori in Singapore. *Frontiers in Psychiatry*
+\*Azuaje, G., **Liew, K.**, Epure, E. V., Yada, S., Wakamiya, S., Aramaki, E. (Forthcoming). Visualyre: Multimodal album art generation for independent musicians. *Personal and Ubiquitous Computing*
 
 Uchida, Y., Krys, K., & **Liew, K.** (Forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
 
+\*Yao, L. F., \*Ferawati, K., **Liew, K.**, Wakamiya, S., Aramaki, E. (2023). The disruption of the cystic fibrosis community’s experiences and concerns during the COVID-19 pandemic: Topic modeling and time series analysis of Reddit comments. *Journal of Medical Internet Reseach*. [https://doi.org/10.2196/45249](https://doi.org/10.2196/45249)
+
+Koh, A. H. Q., **Liew, K.**, Uchida, Y. (2023). The ease of experiencing positive emotions in negative context. *Motivation and Emotion*. [https://doi.org/10.1007/s11031-022-09988-5](https://doi.org/10.1007/s11031-022-09988-5)
+
+\*Azuaje, G., **Liew, K.** (equal contribution), Buening, R., She, W. J., Siriaraya, P., Wakamiya, S., & Aramaki, E. (2023). Exploring the use of AI text-to-image generation to downregulate negative emotions in an expressive writing application. *Royal Society Open Science*. [https://doi.org/10.1098/rsos.220238](https://doi.org/10.1098/rsos.220238)
+
+Lin, P. K. F., Andrew, Koh, A. H. Q., & **Liew, K.** (2023). The relationship between Hikikomori risk factors and social withdrawal tendencies among emerging adults: An exploratory study of Hikikomori in Singapore. *Frontiers in Psychiatry*, 13. [https://doi.org/10.3389/fpsyt.2022.1065304](https://doi.org/10.3389/fpsyt.2022.1065304)
+
+\*Mutinda, F. W., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (2022). PICO Corpus: A Publicly Available Corpus to Support Automatic Data Extraction from Biomedical Literature, *Proceedings of the Workshop on Information Extraction from Scientific Publications (WIESP), AACL-IJCNLP*. [https://aclanthology.org/2022.wiesp-1.4](https://aclanthology.org/2022.wiesp-1.4)
+
 **Liew, K.**,  Uchida, Y.,  Domae, H., &  Koh, A. H. Q. (2022).  Energetic music is used for anger downregulation: A cross-cultural differentiation of intensity from rhythmic arousal. *Journal of Applied Social Psychology*,  1– 12. [https://doi.org/10.1111/jasp.12951](https://doi.org/10.1111/jasp.12951)
 
-\*Zhou, Y., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (2022). Music charts for approximating everyday emotions: A dataset of daily charts with music features from 106 cities. *Proceedings of the 3rd Workshop on Momentary Emotion Elicitation and Capture (MEEC), International Conference for Affective Computing & Intelligent Interaction (ACII)*
+\*Zhou, Y., **Liew, K.**, Yada, S., Wakamiya, S., & Aramaki, E. (2022). Music charts for approximating everyday emotions: A dataset of daily charts with music features from 106 cities. *Proceedings of the 3rd Workshop on Momentary Emotion Elicitation and Capture (MEEC), International Conference for Affective Computing & Intelligent Interaction (ACII)*. [https://doi.org/10.1109/ACIIW57231.2022.10086019](https://doi.org/10.1109/ACIIW57231.2022.10086019)
 
 **Liew, K.**, \*Mishra, V., \*Zhou, Y., Epure, E. V., Hennequin, R., Wakamiya, S., & Aramaki, E. (2022). Network analyses for cross-cultural music popularity. *Proceedings of the 23rd International Society for Music Information Retrieval Conference (ISMIR)* {PDF available at [https://psyarxiv.com/fp75z/](https://psyarxiv.com/fp75z/)}
 
