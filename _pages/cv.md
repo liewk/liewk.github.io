@@ -18,7 +18,8 @@ Education
 
 Work experience
 ======
-* Assistant Professor, Nara Institute of Science and Technology, 2021 - Present
+* Lecturer, University of Canterbury, 2023 - 
+* Assistant Professor, Nara Institute of Science and Technology, 2021 - 2023
 * Research Fellow, Nara Institute of Science and Technology, 2020
 * Research Fellow (DC2), Japan Society for the Promotion of Science, 2019-2021
   
