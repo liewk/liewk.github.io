@@ -9,9 +9,9 @@ author_profile: true
 
 Uchida, Y., Krys, K., & **Liew, K.** (Forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
 
-Jackson, J. C., Halberstadt, J., Takezawa, M., **Liew, K.**, Smith, K., Apicella, C., & Gray, K. (2023). Generalized morality culturally evolves as an adaptive heuristic in large social networks. Journal of Personality and Social Psychology, 125(6), 1207–1238. [https://doi.org/10.1037/pspa0000358](https://doi.org/10.1037/pspa0000358)
+Jackson, J. C., Halberstadt, J., Takezawa, M., **Liew, K.**, Smith, K., Apicella, C., & Gray, K. (2023). Generalized morality culturally evolves as an adaptive heuristic in large social networks. _Journal of Personality and Social Psychology_, 125(6), 1207–1238. [https://doi.org/10.1037/pspa0000358](https://doi.org/10.1037/pspa0000358)
 
-Krys, K., Kostoula, O., van Tilburg, W.A.P., Mosca, O., ...**Liew, K.**, ... Uchida, Y. (2023). Happiness maximization is a WEIRD way of living. Perspectives on Psychological Science. Advance online publication. [https://doi.org/10.1177/17456916231208367](https://doi.org/10.1177/17456916231208367)
+Krys, K., Kostoula, O., van Tilburg, W.A.P., Mosca, O., ...**Liew, K.**, ... Uchida, Y. (2023). Happiness maximization is a WEIRD way of living. _Perspectives on Psychological Science_. Advance online publication. [https://doi.org/10.1177/17456916231208367](https://doi.org/10.1177/17456916231208367)
 
 \*Azuaje, G., **Liew, K.**, Epure, E. V., Yada, S., Wakamiya, S., Aramaki, E. (2023). Visualyre: Multimodal album art generation for independent musicians. *Personal and Ubiquitous Computing*. https://doi.org/10.1007/s00779-023-01724-1
 
