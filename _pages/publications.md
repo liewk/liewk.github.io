@@ -7,7 +7,7 @@ author_profile: true
 
 Uchida, Y., Krys, K., & **Liew, K.** (Forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
 
-Kraus, B., **Liew, K.**, Kitayama, S., & Uchida, Y. (2024). The impact of culture on Emotion Suppression: Insights from an Electrophysiological Study of Emotion Regulation in Japan. *Biological Psychology*, 108767.  [https://doi.org/10.1016/j.biopsycho.2024.108767](https://doi.org/10.1016/j.biopsycho.2024.108767)
+Kraus, B., **Liew, K.**, Kitayama, S., & Uchida, Y. (2024). The impact of culture on emotion suppression: Insights from an electrophysiological study of emotion regulation in Japan. *Biological Psychology*, 108767.  [https://doi.org/10.1016/j.biopsycho.2024.108767](https://doi.org/10.1016/j.biopsycho.2024.108767)
 
 Kok, K., North, A., Hamamura, T., & **Liew, K.**. (2024). Music consumption and uses in Japan. *Psychology of Music*. [https://doi.org/10.1177/03057356241234071](https://doi.org/10.1177/03057356241234071)
 
