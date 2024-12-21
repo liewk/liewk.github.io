@@ -80,7 +80,7 @@ Koh, A. H. Q., **Liew, K.**, & Uchida, Y. (2020). ひきこもりの文化・社
 **Liew, K.**, Lindborg, P., Rodrigues, R., & Styles, S.J. (2018). Cross-modal perception of noise-in-music: audiences generate spiky shapes in response to auditory roughness in a novel electroacoustic concert setting. *Frontiers in Psychology*, 9:178. [https://doi.org/10.3389/fpsyg.2018.00178](https://doi.org/10.3389/fpsyg.2018.00178)
 
 
-‘\*’ indicates supervised student works
+‘\*’ indicates publications by supervised students 
 
 
 
