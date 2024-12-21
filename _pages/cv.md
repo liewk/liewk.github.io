@@ -28,7 +28,7 @@ Grants and Awards
 ======
 * Counter Terrorism Coordination Committee (Department of Prime Minister and Cabinet), 2025 (Primary Investigator)
 * * *Understanding the Dynamics of Attitude Contagion in Multiplayer Minecraft*
-* CWRI Small Grants, Child Wellbeing Research Institute, 2025 (Primary Investigator)
+* CWRI Small Grants, Child Wellbeing Research Institute, 2024 (Primary Investigator)
 * * *Examining attitude formation and well-being in a Minecraft community*
 * Google Research Scholar Program, 2022 (Primary Investigator)
 * * *Understanding Social Withdrawal and Hikikomori: Research and Development of an Intelligent Companion Application for AI-Assisted Therapy*
