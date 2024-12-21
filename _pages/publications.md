@@ -7,6 +7,16 @@ author_profile: true
 
 Uchida, Y., Krys, K., & **Liew, K.** (Forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
 
+**Liew, K.**, Hamamura, T., & Uchida, Y. (In press). Machine learning culture: Cultural membership classification as an exploratory approach to cross-cultural psychology. *Personality and Social Psychology Bulletin*
+
+Koh, A. H. Q., Nakayama, M., **Liew, K.**, Uchida, Y. (In press). The function of feeling kama muta in face of collective threat. *Social Psychological Bulletin*.
+
+\*Ritter, M., **Liew, K.**, Wickramasinghe, Y S., Lukosch, S. (2024). Trustful trading in shared augmented reality. In *Proceedings of the 2024 ACM Symposium on Spatial User Interaction (SUI 2024)*. [https://doi.org/10.1145/3677386.3682086](https://doi.org/10.1145/3677386.3682086)
+
+Lindborg, P., Aletta, F., Xiao, J., **Liew, K.**, Matsuda, Y., Yue, R., ... & Wei, L. (2024). Multimodal Hong Kong: Documenting soundscape and smellscape at places of intangible cultural heritage. *In Proceedings of the 3rd International Congress & Exposition on Noise Control Engineering (INTER-NOISE 2024)*
+
+\*Zhang, Z., **Liew, K.**, Kuijer, R., She, W. J., Yada, S., Wakamiya, S., & Aramaki, E. (2024). Differing Content and Language Based on Poster-Patient Relationships on the Chinese Social Media Platform Weibo: Text Classification, Sentiment Analysis, and Topic Modeling of Posts on Breast Cancer. *JMIR cancer*, 10(1), e51332. [https://doi.org/10.2196/51332](https://doi.org/10.2196/51332)
+
 Kraus, B., **Liew, K.**, Kitayama, S., & Uchida, Y. (2024). The impact of culture on emotion suppression: Insights from an electrophysiological study of emotion regulation in Japan. *Biological Psychology*, 108767.  [https://doi.org/10.1016/j.biopsycho.2024.108767](https://doi.org/10.1016/j.biopsycho.2024.108767)
 
 Kok, K., North, A., Hamamura, T., & **Liew, K.**. (2024). Music consumption and uses in Japan. *Psychology of Music*. [https://doi.org/10.1177/03057356241234071](https://doi.org/10.1177/03057356241234071)
