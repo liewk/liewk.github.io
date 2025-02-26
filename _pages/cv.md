@@ -37,6 +37,8 @@ Grants and Awards
 * * *Understanding the Dynamics of Attitude Contagion in Multiplayer Minecraft*
 * CWRI Small Grants, Child Wellbeing Research Institute, 2024 (Primary Investigator)
 * * *Examining attitude formation and well-being in a Minecraft community*
+* Fulbright Visiting Research Scholar Award (U.S. Embassy in Singapore), 2024-2025
+* * *A cross-cultural examination on gatekeeping in online communities for political polarization*
 * Google Research Scholar Program, 2022 (Primary Investigator)
 * * *Understanding Social Withdrawal and Hikikomori: Research and Development of an Intelligent Companion Application for AI-Assisted Therapy*
 * Grant-in-Aid for Scientific Research (C), Japan Society for the Promotion of Science, 2022 (Co-Investigator)
