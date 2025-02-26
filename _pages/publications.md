@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Liew, K.**, Hamamura, T., & Uchida, Y. (Forthcoming). Machine learning culture: Cultural membership classification as an exploratory approach to cross-cultural psychology. *Personality and Social Psychology Bulletin*
 
-\*Wu, X., **Liew, K.**, & Dorahy, M. (Forthcoming). Trust and anxious attachment predict conversational AI adoption intentions in digital counselling: A preliminary survey. *JMIR AI* [http://doi.org/10.2196/68960](http://doi.org/10.2196/68960)
+\*Wu, X., **Liew, K.**, & Dorahy, M. (Forthcoming). Trust and anxious attachment predict conversational AI adoption intentions in digital counselling: A preliminary survey. *JMIR AI*. [http://doi.org/10.2196/68960](http://doi.org/10.2196/68960)
 
 Uchida, Y., Krys, K., & **Liew, K.** (Forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
 
