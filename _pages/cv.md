@@ -18,11 +18,18 @@ Education
 
 Work experience
 ======
-* Lecturer, University of Canterbury, 2023 - 
+* Visiting Postdoctoral Scholar (Fulbright), University of California, Santa Cruz, 2025 - Present
+* Lecturer, University of Canterbury, 2023 - Present
 * Assistant Professor, Nara Institute of Science and Technology, 2021 - 2023
 * Research Fellow, Nara Institute of Science and Technology, 2020
 * Research Fellow (DC2), Japan Society for the Promotion of Science, 2019-2021
-  
+
+
+Editorial experience
+======
+* Associate Editor, Journal of Medical Internet Research, 2025 - Present 
+* Editorial Fellow, Advances in Methods and Practices in Psychological Science, 2024-2025
+* Editorial Board Member, PLOS Mental Health, 2023 - Present
   
 Grants and Awards
 ======
