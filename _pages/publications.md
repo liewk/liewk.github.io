@@ -4,12 +4,13 @@ title: "Publications & Proceedings"
 permalink: /publications/
 author_profile: true
 ---
-
 **Liew, K.**, Hamamura, T., & Uchida, Y. (Forthcoming). Machine learning culture: Cultural membership classification as an exploratory approach to cross-cultural psychology. *Personality and Social Psychology Bulletin*
 
-Koh, A. H. Q., Nakayama, M., **Liew, K.**, Uchida, Y. (Forthcoming). The function of feeling kama muta in face of collective threat. *Social Psychological Bulletin*.
+\*Wu, X., **Liew, K.**, & Dorahy, M. (Forthcoming). Trust and anxious attachment predict conversational AI adoption intentions in digital counselling: A preliminary survey. *JMIR AI* [http://doi.org/10.2196/68960](http://doi.org/10.2196/68960)
 
 Uchida, Y., Krys, K., & **Liew, K.** (Forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
+
+Koh, A. H. Q., Nakayama, M., **Liew, K.**, Uchida, Y. (2025). The function of feeling kama muta in face of collective threat. *Social Psychological Bulletin*, 20, 1-24. [https://doi.org/10.32872/spb.13457](https://doi.org/10.32872/spb.13457)
 
 \*Ritter, M., **Liew, K.**, Wickramasinghe, Y S., Lukosch, S. (2024). Trustful trading in shared augmented reality. In *Proceedings of the 2024 ACM Symposium on Spatial User Interaction (SUI 2024)*. [https://doi.org/10.1145/3677386.3682086](https://doi.org/10.1145/3677386.3682086)
 
