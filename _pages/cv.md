@@ -27,8 +27,9 @@ Work experience
 
 Editorial experience
 ======
+* Associate (Section) Editor, Journal of Medical Internet Research, 2025 - Present
 * Editorial Fellow, Advances in Methods and Practices in Psychological Science, 2024-2025
-* Editorial Board Member, PLOS Mental Health, 2023 - Present
+* Editorial Board Member, PLOS Mental Health, 2023 - 2025
   
 Grants and Awards
 ======
