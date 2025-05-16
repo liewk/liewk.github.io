@@ -6,15 +6,15 @@ author_profile: true
 ---
 **Liew, K.**, Hamamura, T., & Uchida, Y. (Forthcoming). Machine learning culture: Cultural membership classification as an exploratory approach to cross-cultural psychology. *Personality and Social Psychology Bulletin*
 
-\*Wu, X., **Liew, K.**, & Dorahy, M. (Forthcoming). Trust and anxious attachment predict conversational AI adoption intentions in digital counselling: A preliminary survey. *JMIR AI*. [http://doi.org/10.2196/68960](http://doi.org/10.2196/68960)
-
 Uchida, Y., Krys, K., & **Liew, K.** (Forthcoming). *A cultural logic to the content of emotions: Appraisals, action tendencies, and connotations*. In J. De Leersnyder (ed.). The socio-cultural shaping of emotion: Studies into the logic as well as dynamic interplay of Culture and Emotion. Cambridge University Press.
+
+\*Wu, X., **Liew, K.**, & Dorahy, M. (2025). Trust and anxious attachment predict conversational AI adoption intentions in digital counselling: A preliminary survey. *JMIR AI*, 4. [http://doi.org/10.2196/68960](http://doi.org/10.2196/68960)
 
 Koh, A. H. Q., Nakayama, M., **Liew, K.**, Uchida, Y. (2025). The function of feeling kama muta in face of collective threat. *Social Psychological Bulletin*, 20, 1-24. [https://doi.org/10.32872/spb.13457](https://doi.org/10.32872/spb.13457)
 
 \*Ritter, M., **Liew, K.**, Wickramasinghe, Y S., Lukosch, S. (2024). Trustful trading in shared augmented reality. In *Proceedings of the 2024 ACM Symposium on Spatial User Interaction (SUI 2024)*. [https://doi.org/10.1145/3677386.3682086](https://doi.org/10.1145/3677386.3682086)
 
-Lindborg, P., Aletta, F., Xiao, J., **Liew, K.**, Matsuda, Y., Yue, R., ... & Wei, L. (2024). Multimodal Hong Kong: Documenting soundscape and smellscape at places of intangible cultural heritage. *In Proceedings of the 3rd International Congress & Exposition on Noise Control Engineering (INTER-NOISE 2024)*
+Lindborg, P., Aletta, F., Xiao, J., **Liew, K.**, Matsuda, Y., Yue, R., ... & Wei, L. (2024). Multimodal Hong Kong: Documenting soundscape and smellscape at places of intangible cultural heritage. *In Proceedings of the 3rd International Congress & Exposition on Noise Control Engineering (INTER-NOISE 2024)*. [https://doi.org/10.3397/IN_2024_2638](https://doi.org/10.3397/IN_2024_2638)
 
 \*Zhang, Z., **Liew, K.**, Kuijer, R., She, W. J., Yada, S., Wakamiya, S., & Aramaki, E. (2024). Differing Content and Language Based on Poster-Patient Relationships on the Chinese Social Media Platform Weibo: Text Classification, Sentiment Analysis, and Topic Modeling of Posts on Breast Cancer. *JMIR cancer*, 10(1), e51332. [https://doi.org/10.2196/51332](https://doi.org/10.2196/51332)
 
